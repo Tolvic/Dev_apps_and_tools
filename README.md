@@ -1,2 +1,3 @@
-# Dev_apps_and_tools
-A list of apps and tools I use for dev work
+# Dev Apps and Tools
+
+* [Git](https://help.github.com/articles/set-up-git/)
