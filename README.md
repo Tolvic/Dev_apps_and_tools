@@ -11,9 +11,20 @@ Text Editors
     * Linter
     * Language specific Linters
     * Highlight Selected
+
 Browsers
 * [Chrome](https://www.google.com/chrome/)
 * [FireFox](https://www.mozilla.org/en-GB/firefox/new/)
 
 FTP Client
  * [FileZilla](https://filezilla-project.org/)
+ 
+ IDE
+ * Visual Studio Community 2017
+     * .NET Core 2.1 SDK
+
+To Add
+* Ruby
+* HomeBrew
+* Bundle
+* Postgres
