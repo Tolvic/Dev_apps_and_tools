@@ -20,8 +20,8 @@ FTP Client
  * [FileZilla](https://filezilla-project.org/)
  
  IDE
- * Visual Studio Community 2017
-     * .NET Core 2.1 SDK
+ * [Visual Studio Community](https://visualstudio.microsoft.com/downloads/)
+     * [.NET Core 2.1 SDK](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.1.500-macos-x64-installer)
 
 To Add
 * Ruby
