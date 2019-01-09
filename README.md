@@ -6,6 +6,7 @@ Version Control
 
 Command Line Interfaces
 * [Git Bash](https://help.github.com/articles/set-up-git/) (likely inatlled ith Git)
+    * [Change start in location to projects folder](https://www.youtube.com/watch?v=vxOXmAN1oI4)
 * [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-windows-powershell?view=powershell-6)
 * [iTerm2](https://www.iterm2.com/) (macOS only)
 
