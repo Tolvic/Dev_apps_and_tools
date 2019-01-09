@@ -4,6 +4,11 @@ Version Control
 * [Git](https://help.github.com/articles/set-up-git/)
     * [Instructions on connecting to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
 
+Command Line Interfaces
+* [Git Bash](https://help.github.com/articles/set-up-git/) (likely inatlled ith Git)
+* [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-windows-powershell?view=powershell-6)
+* [iTerm2](https://www.iterm2.com/) (macOS only)
+
 Text Editors
 * [Atom](https://atom.io/) with the folloing packages:
     * Auto-close HTML
