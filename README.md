@@ -1,6 +1,6 @@
 # Dev Apps and Tools
 
-(Ninite)[https://ninite.com/] is a useful tool which is capibable of batch installing several of these at once.
+[Ninite](https://ninite.com/) is a useful tool which is capibable of batch installing several of these at once.
 
 Version Control
 * [Git](https://help.github.com/articles/set-up-git/)
