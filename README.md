@@ -32,7 +32,10 @@ FTP Client
 Langauges
 * [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
 
+SQL Databaes
+* [PostgreSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+
 To Add
 * HomeBrew
 * Bundle
-* Postgres
+
