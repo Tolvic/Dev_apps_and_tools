@@ -37,6 +37,9 @@ SQL Databaes
     * Once downloaded, start psql using the command `psql -U postgres` and then run the following set up:
     * `CREATE ROLE "TMace" WITH LOGIN ENCRYPTED PASSWORD 'Password' CREATEDB;` replacing password with the password you wish to set and TMace with the username used to log into the machine you are running on
     * `CREATE DATABASE "TMace"` replacing TMace with the username you use to log into the machine
+    
+SQL Client
+* (TablePlus)[https://tableplus.io/]
 
 To Add
 * HomeBrew
