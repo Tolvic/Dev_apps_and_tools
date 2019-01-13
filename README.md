@@ -1,5 +1,7 @@
 # Dev Apps and Tools
 
+(Ninite)[https://ninite.com/] is a useful tool which is capibable of batch installing several of these at once.
+
 Version Control
 * [Git](https://help.github.com/articles/set-up-git/)
     * [Instructions on connecting to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
