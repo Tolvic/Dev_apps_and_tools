@@ -33,7 +33,10 @@ Langauges
 * [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
 
 SQL Databaes
-* [PostgreSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+* [PostgreSQL](https://www.postgresql.org/download/windows/)
+    * Once downloaded, start psql using the command `psql -U postgres` and then run the following set up:
+    * `CREATE ROLE "TMace" WITH LOGIN ENCRYPTED PASSWORD 'Password' CREATEDB;` replacing password with the password you wish to set and TMace with the username used to log into the machine you are running on
+    * `CREATE DATABASE "TMace"` replacing TMace with the username you use to log into the machine
 
 To Add
 * HomeBrew
