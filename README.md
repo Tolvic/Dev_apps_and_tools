@@ -33,6 +33,7 @@ FTP Client
 
 Langauges
 * [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
+    * [Ruby in 20 Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 
 SQL Databaes
 * [PostgreSQL](https://www.postgresql.org/download/windows/)
