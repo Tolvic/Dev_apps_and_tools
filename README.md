@@ -42,7 +42,7 @@ SQL Databaes
     * `CREATE DATABASE "TMace"` replacing TMace with the username you use to log into the machine
     
 SQL Client
-* (TablePlus)[https://tableplus.io/]
+* [TablePlus](https://tableplus.io/)
 
 To Add
 * HomeBrew
