@@ -44,8 +44,3 @@ SQL Databaes
 SQL Client
 * [TablePlus](https://tableplus.io/)
 * [HeidiSQL](https://www.heidisql.com/download.php?download=installer) - trialing to replace Table Plus
-
-To Add
-* HomeBrew
-* Bundle
-
