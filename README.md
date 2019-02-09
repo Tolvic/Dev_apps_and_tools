@@ -29,7 +29,7 @@ FTP Client
  
  IDE
  * [Visual Studio Community](https://visualstudio.microsoft.com/downloads/)
-     * [.NET Core 2.1 SDK](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.1.500-macos-x64-installer)
+     * [.NET Core](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.1.500-macos-x64-installer)
 
 Langauges
 * [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
